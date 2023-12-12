@@ -413,10 +413,16 @@
   },
   "libraries": {
     "pinned_footprint_libs": [
-      "minimouse"
+      "minimouse",
+      "62201021121",
+      "STSPIN240",
+      "stm32f303cbt6"
     ],
     "pinned_symbol_libs": [
-      "minimouse"
+      "minimouse",
+      "62201021121",
+      "STSPIN240",
+      "STM32F303CBT6"
     ]
   },
   "meta": {
